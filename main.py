@@ -11,8 +11,10 @@ from sklearn.model_selection import train_test_split, RepeatedKFold, GridSearchC
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 
 
-image = Image.open('GRBT.png')
-st.image(image, caption='Gradient Boost Logo')
+# image = Image.open('GRBT.png')
+# st.image(image, caption='Gradient Boost Logo')
+
+st.image('GRBT.png')
 
 st.title("STOCK MARKET PREDITION PROJECT")
 st.write("""Explore diffrent stocks Open and Closing prices prediction for free! :+1:""")
