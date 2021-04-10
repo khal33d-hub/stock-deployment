@@ -1,2 +1,4 @@
 # stock-deployment
-streamlit deployment for stock market MI
+streamlit deployment for STOCK MARKET FORECASTING PROJECT via HEROKU
+
+THIS IS JUST THE PROTOTYPE DEPLOYMENT
